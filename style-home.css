@@ -1,8 +1,8 @@
-body index.html {
+body{
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url('https://drive.google.com/file/d/1MdG9YIVw-Al0erfyIBfNEffhPVoeADx6/view?usp=drivesdk');
+    background-image: url('KAMUS\ BAHASA\ MINANGKABAU.jpg');
     background-size: cover;
     background-position: center;
     color: rgb(15, 14, 14);
@@ -28,6 +28,7 @@ p {
 
 .start-button{
     display: inline-block;
+    position: center;
     padding: 15px 30px;
     font-size: 1.2 em;
     color: white;
